@@ -1,0 +1,7 @@
+name: Hardened Phase
+description: Phase but compressed its used for many production purposes and for heavy defense
+hardness: 3
+cost: 1
+color: "C2B280"
+explosiveness: 0
+flammability: 0
